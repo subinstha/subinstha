@@ -61,7 +61,7 @@ I am a Software Developer and Machine-Learning enthusiast. I love to learn new t
 ###  :coffee: Let's Connect
 <p align="center">
 	<a href="https://github.com/subinstha" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/sthasubin/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/subinsth/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.subinstha.com.np/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/geography.png" alt="Website"/></a>
 
 </p> 

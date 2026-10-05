@@ -44,23 +44,23 @@ I am a Software Developer and Machine-Learning enthusiast. I love to learn new t
 
 ### ⚙️ GitHub Analytics
 <p align="center">
-<a href="https://github.com/sthasubin429">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sthasubin429&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sthasubin429&layout=compact&langs_count=10&theme=radical&hide=jupyter%20notebook,c%2B%2B"/>
+<a href="https://github.com/subinstha">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=subinstha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subinstha&layout=compact&langs_count=10&theme=radical&hide=jupyter%20notebook,c%2B%2B"/>
 </a>
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sthasubin429&show_icons=true&theme=tokyonight_duo" alt="sthasubin429" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subinstha&show_icons=true&theme=tokyonight_duo" alt="subinstha" /></p>
 
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sthasubin429.sthasubin429">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/sthasubin429?style=social">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/subinstha?style=social">
 </p>
 
 
 ###  :coffee: Let's Connect
 <p align="center">
-	<a href="https://github.com/sthasubin429" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/subinstha" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sthasubin/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.subinstha.com.np/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/geography.png" alt="Website"/></a>
 
